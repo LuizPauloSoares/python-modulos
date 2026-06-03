@@ -100,7 +100,7 @@ python moduloExterno.py
 
 **Luiz Paulo Soares**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luiz--paulo--soares-blue?logo=linkedin)](https://linkedin.com/in/luiz-paulo-soares)
-[![GitHub](https://img.shields.io/badge/GitHub-seu--usuario-black?logo=github)](https://github.com/seu-usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-lu1z__st-E4405F?logo=instagram&logoColor=white)](https://instagram.com/lu1z_st)
 
 ---
 
